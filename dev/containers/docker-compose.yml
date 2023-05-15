@@ -13,7 +13,7 @@ services:
     logging:
       driver: "none"
     networks:
-      - idigital_network
+      - wiki_network
     volumes:
       - db-data:/var/lib/postgresql/data
     ports:
@@ -23,7 +23,7 @@ services:
     container_name: wiki-adminer
     image: adminer:latest
     networks:
-      - idigital_network
+      - wiki_network
     logging:
       driver: "none"
     ports:
@@ -39,7 +39,7 @@ services:
     ports:
       - "3000:3000"
     networks:
-      - idigital_network
+      - wiki_network
     volumes:
       - ../..:/wiki
       - /wiki/node_modules
@@ -49,6 +49,6 @@ volumes:
   db-data:
 
 networks:
-  idigital_network:
+  wiki_network:
     driver: bridge
     external: true
