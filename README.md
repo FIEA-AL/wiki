@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://static.requarks.io/logo/wikijs-full.svg" alt="Wiki.js" width="600" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://static.requarks.io/logo/wikijs-full-darktheme.svg">
+  <img alt="Wiki.js" src="https://static.requarks.io/logo/wikijs-full.svg" width="600">
+</picture>
 
 [![Release](https://img.shields.io/github/release/Requarks/wiki.svg?style=flat&maxAge=3600)](https://github.com/Requarks/wiki/releases)
 [![License](https://img.shields.io/badge/license-AGPLv3-blue.svg?style=flat)](https://github.com/requarks/wiki/blob/master/LICENSE)
@@ -163,6 +166,7 @@ Support this project by becoming a sponsor. Your name will show up in the Contri
 - David Christian Holin ([@SirGibihm](https://github.com/SirGibihm))
 - Dragan Espenschied ([@despens](https://github.com/despens))
 - Elijah Zobenko ([@he110](https://github.com/he110))
+- Emerson-Perna ([@Emerson-Perna](https://github.com/Emerson-Perna))
 - Ernie ([@iamernie](https://github.com/iamernie))
 - Fabio Ferrari ([@devxops](https://github.com/devxops))
 - Finsa S.p.A. ([@finsaspa](https://github.com/finsaspa))
@@ -191,6 +195,7 @@ Support this project by becoming a sponsor. Your name will show up in the Contri
 - Nina Reynolds ([@cutecycle](https://github.com/cutecycle))
 - Noel Cower ([@nilium](https://github.com/nilium))
 - Oleksandr Koltsov ([@crambo](https://github.com/crambo))
+- Phi Zeroth ([@phizeroth](https://github.com/phizeroth))
 - Philipp Schmitt ([@pschmitt](https://github.com/pschmitt))
 - Robert Lanzke ([@winkelement](https://github.com/winkelement))
 - Ruizhe Li ([@liruizhe1995](https://github.com/liruizhe1995))
@@ -201,6 +206,7 @@ Support this project by becoming a sponsor. Your name will show up in the Contri
 - Tyler Denman ([@tylerguy](https://github.com/tylerguy))
 - Victor Bilgin ([@vbilgin](https://github.com/vbilgin))
 - VMO Solutions ([@vmosolutions](https://github.com/vmosolutions))
+- ameyrakheja ([@ameyrakheja](https://github.com/ameyrakheja))
 - aniketpanjwani ([@aniketpanjwani](https://github.com/aniketpanjwani))
 - aytaa ([@aytaa](https://github.com/aytaa))
 - chaee ([@chaee](https://github.com/chaee))
@@ -392,10 +398,13 @@ Thank you to all our patrons! 🙏 [[Become a patron](https://www.patreon.com/re
 - Arti Zirk
 - Ave
 - Brandon Curtis
+- Damien Hottelier
+- Daniel T. Holtzclaw
 - Dave 'Sri' Seah
 - djagoo
 - dz
 - Douglas Lassance
+- Ergoflix
 - Ernie Reid
 - Etienne
 - Flemis Jurgenheimer
@@ -419,14 +428,17 @@ Thank you to all our patrons! 🙏 [[Become a patron](https://www.patreon.com/re
 - Mads Rosendahl
 - Mark Mansur
 - Matt Gedigian
+- Mike Ditton
 - Nate Figz
 - Patryk
+- Paul O'Fallon
 - Philipp Schürch
 - Tracey Duffy
 - Quaxim
 - Richeir
 - Sergio Navarro Fernández
 - Shad Narcher
+- ShadowVoyd
 - SmartNET.works
 - Stepan Sokolovskyi
 - Zach Crawford
